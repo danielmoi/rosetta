@@ -3,10 +3,10 @@
 
 JavaScript
 ```js
-const text = `The answer is ${result}.`;
+const text = `The answer is ${result}, Tommo.`;
 ```
 
 Swift
 ```swift
-let text = "The answer is \(result)"
+let text = "The answer is \(result), Tommo"
 ```
