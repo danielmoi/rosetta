@@ -6,3 +6,6 @@ print(arr)
 
 arr.remove(at: 0)
 print(arr)
+
+let first = arr[0]
+print(first) // 2
