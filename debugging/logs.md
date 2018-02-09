@@ -9,3 +9,8 @@ Swift
 ```
 print("magic:", magic)
 ```
+
+Kotlin
+```
+println("magic")
+```
