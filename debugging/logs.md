@@ -12,5 +12,5 @@ print("magic:", magic)
 
 Kotlin
 ```
-println("magic")
+println("magic:$magic")
 ```
